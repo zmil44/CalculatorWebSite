@@ -68,6 +68,9 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Functions.js" />
+    <Content Include="MainPage.html" />
+    <Content Include="Index.css" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
